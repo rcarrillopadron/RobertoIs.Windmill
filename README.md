@@ -2,7 +2,8 @@
 RobertoIs is testing Windmill
 
 ## Steps
-1. Download
-   - https://github.com/windmill-labs/windmill/blob/main/docker-compose.yml
-   - https://github.com/windmill-labs/windmill/blob/main/Caddyfile
-   - https://github.com/windmill-labs/windmill/blob/main/.env
+1. Download the following files by running
+   - `curl https://raw.githubusercontent.com/windmill-labs/windmill/main/docker-compose.yml -o docker-compose.yml`
+   - `curl https://raw.githubusercontent.com/windmill-labs/windmill/main/Caddyfile -o Caddyfile`
+   - `curl https://raw.githubusercontent.com/windmill-labs/windmill/main/.env -o .env`
+
